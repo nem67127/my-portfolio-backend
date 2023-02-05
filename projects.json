@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Ecommerce Store",
+        "photo":"ecommerce-store.png",
+        "description": "Group Project of an E-commerce store as part of the curriculum of Concordia Univeristy's Full Stack Web Development Bootcamp. I created the RESTful endpoints in the backend and search bar functionality in the frontend.",
+        "link":"https://github.com/nem67127/group-project-ecommerce"
+    },
+    {
+        "name": "Wild Coast Botanica",
+        "photo": "wild-coast-botanica.png",
+        "description": "IN PROGRESS: Using Wordpress to create a herbalist business website, that can be modified by the owner in the future",
+        "link": "https://wildcoastbotanica.com/"
+    }
+]
