@@ -6,7 +6,7 @@ const cors = require("cors");
 const { getAllProjects } = require('./projectHanders');
 require("dotenv").config();
 
-const PORT = 8000 || process.env.PORT;
+const PORT = 9000 || process.env.PORT;
 
 
 app.use(function (req, res, next) {
